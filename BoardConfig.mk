@@ -56,6 +56,7 @@ BOARD_USE_LEGACY_TRACKPAD := true
 
 
 # Recovery
+TARGET_NO_RECOVERY := true
 TARGET_RECOVERY_FSTAB   := device/htc/bravo/fstab.bravo
 
 # TWRP
